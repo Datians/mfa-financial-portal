@@ -13,11 +13,16 @@ Este proyecto implementa un portal web de **gestión financiera personal** con u
 
 mfa-financial-portal/
 │
--├── backend/ # Código del servidor y API
--├── frontend/ # Archivos de la interfaz de usuario
--├── docs/ # Documentación técnica
--├── tests/ # Pruebas del sistema
--└── README.md # Este archivo
+├── backend/ # Código del servidor y API
+
+├── frontend/ # Archivos de la interfaz de usuario
+
+├── docs/ # Documentación técnica
+
+├── tests/ # Pruebas del sistema
+
+└── README.md # Este archivo
+
 
 ## Instrucciones de Instalación
 
